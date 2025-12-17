@@ -2,10 +2,10 @@
 ---
 
 ## Autor
-Nombre: [Mayra Moran Medina]  
-Carrera: [Tecnologias de la Información]  
-Nivel: [Segundo Semestre]  
-Correo: [mm.moranm@uea.edu.ec]  
+Nombre: Mayra Moran Medina  
+Carrera: Tecnologias de la Información  
+Nivel: Segundo Semestre  
+Correo: mm.moranm@uea.edu.ec  
 
 ---
 Estos ejemplos fueron desarrollados como parte de la asignatura
